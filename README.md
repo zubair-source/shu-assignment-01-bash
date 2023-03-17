@@ -3,7 +3,7 @@
 Please not the following before submission.
 
 * You are being provided with the template scripts file with comments inside.
-* The comments inside the script tells you what to do with the script.
+* The comments inside the script tells you what to do with the script., read them carefully.
 * Read all the instruction carefully before start working on the script, if you get confused, feel free to discuss with me.
 * Don't try to use AI tools for completion of the tasks. The assignment will have follow-up viva or presentation in the class.
 * You can take help from any resource, follwed by understanding the stuff.
